@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/fristReactapp/static/js/main.7c40119e.js",
+    "static/media/winnerwinnerchickendinner.webp": "/fristReactapp/static/media/winnerwinnerchickendinner.b3991184bb17adf03a32.webp",
+    "static/media/winmarry.gif": "/fristReactapp/static/media/winmarry.7a51c4b0b26b736758f6.gif",
+    "static/media/lonelyuselap.jpg": "/fristReactapp/static/media/lonelyuselap.be24912c51c44a4b6b64.jpg",
+    "static/media/coding.png": "/fristReactapp/static/media/coding.5ef1a935b633394c6db1.png",
+    "index.html": "/fristReactapp/index.html",
+    "main.7c40119e.js.map": "/fristReactapp/static/js/main.7c40119e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7c40119e.js"
+  ]
+}
